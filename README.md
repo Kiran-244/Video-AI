@@ -128,16 +128,3 @@ AI-Video-Assistant/
 - Improved retrieval accuracy and conversational memory.
 - Advanced analytics for meeting productivity.
 
-## 👩‍💻 Author
-
-**Kiranpreet Kaur (Kiran)**
-
-B.Tech Computer Science Engineering | AI & ML
-
-Interested in Artificial Intelligence, Machine Learning, Generative AI, and building practical AI-powered solutions.
-
-## 🙌 Acknowledgements
-
-This project is based on and learnt from  [Akarsh Vyas](https://github.com/AkarshVyas).
----
-⭐ If you find this project interesting, feel free to explore and learn from it.
